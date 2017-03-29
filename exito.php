@@ -11,7 +11,7 @@
     <title>Éxito</title>
   </head>
   <body>
-    <h2>Gracias por registrarte. Tus datos son los siguientes, aunque esto no me gusta un pelo:</h2>
+    <h2>Gracias por registrarte. Tus datos son los ss, aunque esto no me gusta un pelo:</h2>
     <ul>
       <li>Nombre: <?php echo $nombre ?></li>
       <li>Fecha de nacimiento: <?php echo $fecha ?></li>
