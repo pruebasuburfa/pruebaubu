@@ -14,6 +14,7 @@
         <input type="text" name="nombre" id="nombre" maxlength="50" required>
         <label for="fecha">Fecha de nacimiento: </label>
         <input type="date" name="fecha" id="fecha" required>
+        <input type="text" name="pruebita" value="nada" placeholder="nada">
         <input type="submit"  value="Enviar">
       </fieldset>
     </form>
